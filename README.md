@@ -51,7 +51,8 @@ The system uses comprehensive medical datasets containing:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/RAKESH15122004/Disease-Prediction-and-Medical-Recommendation-System.git
-   cd Disease-Prediction-and-Medical-Recommendation-System-main
+   cd Disease-Prediction-and-Medical-Recommendation-System
+   
    ```
 
 2. **Install required dependencies:**
